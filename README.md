@@ -1,11 +1,8 @@
 ## Hi there, I'm Youssef Gamal 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence;Power+BI+%7C+SQL+%7C+Python;Building+End-to-End+Data+Analytics+Projects;Turning+Data+into+Actionable+Insights;Always+Learning+and+Growing" alt="Typing SVG" />
 </div>
-
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/youssefgamal00" target="_blank">
