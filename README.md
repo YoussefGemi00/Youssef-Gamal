@@ -1,12 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Youssef%20Gamal%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=YoussefGemi00">
-    <img src="https://komarev.com/ghpvc/?username=YoussefGemi00&label=Profile%20views&color=00FFFF&style=flat-square" alt="YoussefGemi00's profile views" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/34351315/170669910-c11c472c-e1ee-49ff-a0bc-cc6133be4cb5.gif" alt="Data Analyst Dashboard" width="100%" />
+<img src="https://media0.giphy.com/media/8gNQZ9IpkcdiAjfOgN/giphy.gif" alt="Data Analyst Dashboard" width="100%" />
 
 ## 📌 About Me
 - 🚀 Passionate Data Analyst with hands-on experience in SQL, Power BI, Python, and Excel.
