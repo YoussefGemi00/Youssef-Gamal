@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Youssef%20Gamal%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<img src="https://media0.giphy.com/media/8gNQZ9IpkcdiAjfOgN/giphy.gif" alt="Data Analyst Dashboard" width="100%" />
+<p align="center">
+  <img src="https://media1.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" alt="Data Analyst Work" width="50%" />
+</p>
 
 ## 📌 About Me
 - 🚀 Passionate Data Analyst with hands-on experience in SQL, Power BI, Python, and Excel.
