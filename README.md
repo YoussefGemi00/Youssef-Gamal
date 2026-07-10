@@ -1,61 +1,58 @@
-## Hi there, I'm Youssef Gamal 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Youssef%20Gamal%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence;Power+BI+%7C+SQL+%7C+Python;Building+End-to-End+Data+Analytics+Projects;Turning+Data+into+Actionable+Insights;Always+Learning+and+Growing" alt="Typing SVG" />
-</div>
-<!-- 🔗 Update these links with your own social media and contact information -->
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=YoussefGemi00">
+    <img src="https://komarev.com/ghpvc/?username=YoussefGemi00&label=Profile%20views&color=00FFFF&style=flat-square" alt="YoussefGemi00's profile views" />
+  </a>
+</p>
+
+<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1de12ab5/1544463301732-V6E5G43UG7NQDZZOCP7M/ke17ZwdGBToddI8pDm48kNiEM88mBdNsFNTbHQQGiPAUqsxRUqqbr1mAnFkmqLGwMxMa6Zq2mH8w19rRGo767XvP2Ff49673W0xL5D-N90U/Data-Analysis.gif" alt="Data Analytics Banner" width="100%" />
+
+## 📌 About Me
+- 🚀 Passionate Data Analyst with hands-on experience in SQL, Power BI, Python, and Excel.
+- 📈 I build end-to-end BI solutions—including ETL, data modeling, DAX, and interactive dashboards—turning raw data into meaningful business insights.
+- 🧠 Currently expanding my knowledge in Data Engineering and Cloud technologies.
+- 🤝 Open to collaborating on Data Analytics, Business Intelligence, and Data Engineering projects.
+- 📫 Let's connect and build impactful data solutions!
+
+
+## 🧠 My Focus Areas
+- Data Analytics
+- Business Intelligence (BI)
+- Data Engineering
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+</p>
+
+## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/youssefgamal00" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/2001067239288" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:eng.youssefgamal13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
 
-## 🚀 About Me
-
-I'm a Data Analyst passionate about turning raw data into meaningful insights that support better business decisions. I enjoy working across the entire analytics process—from data cleaning and modeling to building interactive Power BI dashboards and uncovering actionable insights.
-
-My main interests are Business Intelligence, SQL, Power BI, Data Warehousing, and Python. I enjoy solving real-world business problems through data and continuously improving my analytical and technical skills by building end-to-end projects.
-
-
-      
-## 🔭 What I'm Currently Working On
-
-- Building end-to-end Business Intelligence projects using SQL and Power BI.
-- Developing interactive dashboards focused on business KPIs and actionable insights.
-- Improving my data analytics portfolio with real-world case studies.
-
-## 🌱 Currently Learning
-
-- Advanced SQL for analytics.
-- Data Warehouse design and ETL concepts.
-- Python for data analysis and automation.
-
-## 🛠️ Technical Skillset
-
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
-
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Intermediate-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Expert-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
