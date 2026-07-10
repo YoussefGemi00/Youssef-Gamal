@@ -29,9 +29,9 @@
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="40" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" width="40" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" />
 </p>
 
 ## 🔗 Connect with Me
