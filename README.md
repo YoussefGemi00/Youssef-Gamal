@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1de12ab5/1544463301732-V6E5G43UG7NQDZZOCP7M/ke17ZwdGBToddI8pDm48kNiEM88mBdNsFNTbHQQGiPAUqsxRUqqbr1mAnFkmqLGwMxMa6Zq2mH8w19rRGo767XvP2Ff49673W0xL5D-N90U/Data-Analysis.gif" alt="Data Analytics Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/34351315/170669910-c11c472c-e1ee-49ff-a0bc-cc6133be4cb5.gif" alt="Data Analyst Dashboard" width="100%" />
 
 ## 📌 About Me
 - 🚀 Passionate Data Analyst with hands-on experience in SQL, Power BI, Python, and Excel.
